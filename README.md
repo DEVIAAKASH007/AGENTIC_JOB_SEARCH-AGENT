@@ -284,3 +284,12 @@ Project: [Agentic Job Search Agent](https://github.com/DEVIAAKASH007/AGENTIC_JOB
 
 ### Candidate Profile
 ![Candidate Profile](SCREENSHOTS/resume.png)
+
+
+
+
+
+
+
+
+NOTE:FOR EACH THING WE PROVIDED THE TEST MAKE SURE TO TEST IT AND MAKE SURE IT WORKS.
