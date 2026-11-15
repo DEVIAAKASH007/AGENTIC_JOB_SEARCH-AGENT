@@ -235,36 +235,6 @@ Open the application in your browser:
 http://127.0.0.1:7860
 ```
 
----
-
-## 🖥️ Application Screenshots
-
-### Career Agent Chat
-
-<!-- Add actual screenshot: screenshots/career_chat.png -->
-
-![Career Agent Chat](screenshots/career_chat.png)
-
-### Job Search & Matcher
-
-<!-- Add actual screenshot: screenshots/job_search.png -->
-
-![Job Search](screenshots/job_search.png)
-
-### Candidate Profile & GitHub Analysis
-
-<!-- Add actual screenshot: screenshots/candidate_profile.png -->
-
-![Candidate Profile](screenshots/candidate_profile.png)
-
-### Skill Normalizer & Semantic Lab
-
-<!-- Add actual screenshot: screenshots/skill_normalizer.png -->
-
-![Skill Normalizer](screenshots/skill_normalizer.png)
-
----
-
 ## 🔄 Workflow
 
 1. Upload a candidate resume in PDF format.
